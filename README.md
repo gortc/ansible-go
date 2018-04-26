@@ -1,6 +1,8 @@
 Go
 ========
 
+[![Ansible Role](https://img.shields.io/ansible/role/24183.svg)](https://galaxy.ansible.com/gortc/go/)
+
 Ansible role that installs [Go](https://golang.org/). The latest stable release that has been compiled for x86 64-bit Linux systems is installed by default, and different platforms and versions are supported by modifying the role variables.
 
 Role Variables
