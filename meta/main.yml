@@ -1,7 +1,9 @@
 ---
 galaxy_info:
-  author: "Joshua Lund"
-  description: "Ansible role that installs Go (https://golang.org/). The latest stable release that has been compiled for x86 64-bit Linux systems is installed by default, and different platforms and versions are supported by modifying the role variables."
+  author: Aleksandr Razumov
+  description: Ansible role that installs go.
+  company: gortc
+  issue_tracker_url: https://github.com/gortc/ansible-go/issues
   license: MIT
   min_ansible_version: 2.0
   platforms:
@@ -37,4 +39,8 @@ galaxy_info:
         - all
   categories:
     - development
+  galaxy_tags:
+    - go
+    - golang
+
 dependencies: []
