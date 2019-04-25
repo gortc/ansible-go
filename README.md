@@ -1,5 +1,7 @@
-Go
+Go 
 ========
+
+**Deprecated**, use [https://github.com/yogo1212/ansible-go](yogo1212/ansible-go).
 
 [![Ansible Role](https://img.shields.io/ansible/role/24183.svg)](https://galaxy.ansible.com/gortc/go/)
 [![Build Status](https://travis-ci.com/gortc/ansible-go.svg?branch=master)](https://travis-ci.com/gortc/ansible-go)
